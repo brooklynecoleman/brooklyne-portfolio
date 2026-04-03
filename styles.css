@@ -6,16 +6,16 @@ html, body {
 
 @font-face{
     font-family: "DotempDemo";
-    src: url("fonts/Dotemp\ Demo\ 8bit\ 400.ttf") format("truetype");
+    src: url("fonts/dotemp.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "Ultraprint";
-    src: url("fonts/Ultraprint.otf") format("opentype");
+    src: url("fonts/ultraprint.otf") format("opentype");
 }
 @font-face {
   font-family: "Ithaca";
-  src: url("fonts/Ithaca-LVB75.ttf") format("truetype");
+  src: url("fonts/ithaca.ttf") format("truetype");
 }
 
 *  {
