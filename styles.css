@@ -194,7 +194,7 @@ nav a:hover {
 }
 
 .project-card img {
-  width: 300px;
+  width: 30px;
   border: 6px solid #2c1133;   /* dark purple */
   border-radius: 8px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
