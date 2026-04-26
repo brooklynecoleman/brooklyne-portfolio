@@ -193,12 +193,26 @@ nav a:hover {
   font-family: "ultraprint", sans-serif;
 }
 
-.project-card img {
-  width: 30px;
-  border: 6px solid #2c1133;   /* dark purple */
-  border-radius: 8px;
+.project-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 300px;
+  height: 220px;
+  margin: 60px auto;
+
+  border: 6px solid #2c1133;
+  border-radius: 10px;
+  background: white;
+  
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   cursor: pointer;
+}
+
+.project-card img {
+  width: 120px;
+  height: auto;
 }
   
 .project-card img:hover {
