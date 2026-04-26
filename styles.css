@@ -139,9 +139,9 @@ nav a:hover {
 }
 
 .about-wrapper {
-  max-width: 1200px;   /* controls overall width */
-  margin: 60px auto;   /* centers everything */
-  padding: 0 40px;     /* space from edges */
+  max-width: 1200px;  
+  margin: 60px auto;   
+  padding: 0 40px;     
 }
 
 .resume-image {
@@ -240,7 +240,6 @@ nav a:hover {
   margin: 0 auto;
 }
 
-/* bigger, centered image */
 .project-card img {
   width: 520px;
   max-width: 50vw;
